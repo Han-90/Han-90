@@ -22,7 +22,7 @@ I currently work as a **working student in IT** while studying **Software Develo
 
 ### 🌎 **Connect with me**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gökhan-özdemir-a3563a183)  
 - 🏗️ [GitHub Projects](https://github.com/Han-90)  
 - ✉️ Reach me via [Email](mailto:goekhan.oezdemir90@googlemail.com)
 
