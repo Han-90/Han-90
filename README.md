@@ -1,25 +1,35 @@
-<img  align="center" alt="coding" width="1000" src="https://mediaandmore.co.uk/wp-content/uploads/2020/06/web-development-banner.jpg">
+### Hi there! 👋 I'm Han
 
-<h1 align="center">Hi 👋, I'm Han</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
-<img  align="right" alt="coding" width="400" src="https://c.tenor.com/A7LK9IylgvwAAAAd/fast-typing-jim-carrey.gif">
+I'm a passionate **Software Developer** with experience in **Java, Python,Javascript and Cypress testing**.
+I currently work as a **working student in IT** while studying **Software Development** and gained experience in companies like **Capgemini and Allianz Technology**. 
 
-- 🔭 I’m currently working on **some little projects**
 
-- 🌱 I’m currently learning **React.js and AWS Cloud Computing**
+### 🚀 **Tech Stack & Tools**
 
-- 📫 How to reach me **goekhan.oezdemir90@googlemail.com**
+- **Programming Languages:** Java, Python, Javascript, Typescript
+- **Automation & Testing:** Cypress
+- **Development Tools:** IntelliJ, VS Code
+- **Version Control:** Git, GitHub
+- **AI & Machine Learning:** Exploring MLOps, AI Technologies, Cloud Computing
+- **Software Development:** Building cool and useful applications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/g%c3%b6khan-%c3%b6zdemir-a3563a183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/g%c3%b6khan-%c3%b6zdemir-a3563a183/" height="30" width="40" /></a>
-</p>
+### 💡 **What I'm currently working on**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🌱 Learning **MLOps** and AI-driven development
+- 🔨 Improving my **Java & Python skills**
+- 📖 Expanding my knowledge in **Cloud & DevOps**
+- 🚀 Building and maintaining **Cypress test automation frameworks**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=han-90&show_icons=true&locale=en&layout=compact" alt="han-90" /></p>
+### 🌎 **Connect with me**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=han-90&show_icons=true&locale=en" alt="han-90" /></p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🏗️ [GitHub Projects](https://github.com/Han-90)  
+- ✉️ Reach me via [Email](mailto:goekhan.oezdemir90@googlemail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=han-90&" alt="han-90" /></p>
+### 🎯 **Goals**
+
+- ✅ Land a **full-time job in IT** while continuing my studies
+- 🚀 Gain expertise in **MLOps & Cloud Engineering**
+- 🔧 Work on **real-world AI-driven projects**
+
+Let's build something great together! 🛠️🔥
