@@ -32,4 +32,3 @@ I currently work as a **working student in IT** while studying **Software Develo
 - 🚀 Gain expertise in **MLOps & Cloud Engineering**
 - 🔧 Work on **real-world AI-driven projects**
 
-Let's build something great together! 🛠️🔥
